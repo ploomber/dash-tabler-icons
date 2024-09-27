@@ -18,6 +18,10 @@
 
 
 
+https://github.com/user-attachments/assets/d69dcfeb-1b59-4d4d-a395-e93ffe293079
+
+
+
 Live demo: [dash-tabler-icons.ploomberapp.io](https://dash-tabler-icons.ploomberapp.io/)
 
 ## Installation
