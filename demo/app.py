@@ -14,6 +14,7 @@ app = Dash(
         "https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css"
     ],
 )
+server = app.server
 
 
 def get_random_icons(count=40):
