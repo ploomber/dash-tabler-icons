@@ -26,6 +26,26 @@ Live demo: [dash-tabler-icons.ploomberapp.io](https://dash-tabler-icons.ploomber
 pip install dash-tabler-icons
 ```
 
+## Usage
+
+```python
+import dash_tabler_icons as dti
+from dash import html
+
+icon = dti.DashTablerIcons(
+    icon=dti.IconName.IconStar,
+    size=48,
+    color="#4B5563",
+    stroke=1,
+)
+
+# Sample usage in a button
+button = html.Button(
+    icon,
+    id="button-with-icon",
+)
+```
+
 ## Run demo locally
 
 ```sh
