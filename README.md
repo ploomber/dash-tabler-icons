@@ -79,6 +79,12 @@ npm run build
 python demo.py
 ```
 
+The icon enum is auto-generated:
+
+```sh
+python generate-constants.py
+```
+
 
 ## Release
 
