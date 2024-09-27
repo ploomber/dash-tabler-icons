@@ -1,11 +1,29 @@
-# Dash tabler-icons
+<p align="center">
+    <h1 align="center"><b>Dash Tabler Icons</b></h1>
+	<p align="center">
+		Beautiful icons for your Dash apps.
+    <br />
+    <br />
+    <br />
+    <img width="100" height="100" src="https://avatars.githubusercontent.com/u/60114551?s=200&v=4" alt="Ploomber Logo">
+    <br />
+    <b>  Made by <a href="https://ploomber.io">Ploomber</a> with ❤️</b>
+    <br />
+    <br />
+    <i>Deploy your Dash application on <a href="https://ploomber.io">Ploomber.io</a> for free.</i>
+    <br />
+  </p>
+</p>
+<br/>
 
-Live demo: [dash_tabler_icons.ploomberapp.io](https://dash_tabler_icons.ploomberapp.io/)
+
+
+Live demo: [dash-tabler-icons.ploomberapp.io](https://dash-tabler-icons.ploomberapp.io/)
 
 ## Installation
 
 ```sh
-pip install dash_tabler_icons
+pip install dash-tabler-icons
 ```
 
 ## Run demo locally
