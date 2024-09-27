@@ -1,0 +1,11 @@
+include dash_tabler_icons/dash_tabler_icons.min.js
+include dash_tabler_icons/dash_tabler_icons.min.js.map
+include dash_tabler_icons/async-*.js
+include dash_tabler_icons/async-*.js.map
+include dash_tabler_icons/*-shared.js
+include dash_tabler_icons/*-shared.js.map
+include dash_tabler_icons/metadata.json
+include dash_tabler_icons/package-info.json
+include README.md
+include LICENSE
+include package.json
