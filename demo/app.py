@@ -124,7 +124,7 @@ app.layout = html.Div(
                     " by ",
                     html.A(
                         "Ploomber",
-                        href="https://ploomber.io",
+                        href="https://ploomber.io/?utm_source=dash-tabler-icons&utm_medium=demo",
                         target="_blank",
                         rel="noopener noreferrer",
                         className="text-blue-500 hover:text-blue-700 underline",
@@ -133,7 +133,7 @@ app.layout = html.Div(
                     html.Span("⭐ on "),
                     html.A(
                         "GitHub",
-                        href="https://github.com/ploomber/dash-tabler-icons",
+                        href="https://github.com/ploomber/dash-tabler-icons/?utm_source=dash-tabler-icons&utm_medium=demo",
                         target="_blank",
                         rel="noopener noreferrer",
                         className="text-blue-500 hover:text-blue-700 underline",
